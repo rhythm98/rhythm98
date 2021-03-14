@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 <a href="https://github.com/rhythm98">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rhythm98&show_icons=true&theme=radical&line_height=27" alt="Rhythm's github stats"/>
 </a>
-<a href="https://github.com/rhythm98">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rhythm98&theme=radical&hide_langs_below=1" />
-</a>
 
 <p align="center"> 
-   Visitor Count
+<br/>
+   <b>Visitor Count</b>
  <br/>
+ 
   <img src="https://profile-counter.glitch.me/rhythm98/count.svg" />
 </p>
 
 ### Show some ❤️ by starring some of the repositories!
+
